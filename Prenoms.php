@@ -1,5 +1,4 @@
 <?php
-
 $nbLetter= $_POST['nbLetter'];
 $firstLettre=$_POST['firstLettre'];
 
